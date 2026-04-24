@@ -1,0 +1,7 @@
+{
+  "primary_server": "http://103.xx.xx.xx:8080",
+  "backup_server": "http://103.xx.xx.xx:8081",
+  "websocket_url": "ws://103.xx.xx.xx:8080",
+  "version": "1.0.0",
+  "last_updated": "2025-01-21"
+}
